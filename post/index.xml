@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>//localhost:1313/post/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>contact@fengyicpa.com (丰翊會計師事務所)</managingEditor>
+    <webMaster>contact@fengyicpa.com (丰翊會計師事務所)</webMaster>
+    <lastBuildDate>Thu, 27 Mar 2025 11:28:57 +0800</lastBuildDate>
+    <atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>//localhost:1313/post/first-post/</link>
+      <pubDate>Thu, 27 Mar 2025 11:28:57 +0800</pubDate><author>contact@fengyicpa.com (丰翊會計師事務所)</author>
+      <guid>//localhost:1313/post/first-post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
